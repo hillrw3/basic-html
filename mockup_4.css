@@ -1,0 +1,30 @@
+h1{
+    color: orange;
+    font-size: 40px;
+}
+
+#nav-bar div{
+    display: inline-block;
+    padding-left: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: black;
+}
+
+#nav-bar{
+    border: 2px solid black;
+    width: 100%;
+    margin-left: -7px;
+    margin-top: -7px;
+}
+
+#submit{
+    background-color: orange;
+    color: black;
+}
+
+*{
+    color: mediumpurple;
+    font-family: Comic-Sans;
+    font-size: 18px;
+}

@@ -1,0 +1,52 @@
+body{
+    background-color: dodgerblue;
+}
+
+h1{
+    color: white;
+    font-size: 65px;
+}
+
+div{
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 1.5%;
+}
+
+#wrapper{
+    margin: 0 auto;
+    border: none;
+    background-color: dodgerblue;
+    text-align: center;
+}
+
+#left{
+    width: 300px;
+    height: 400px;
+    float: left;
+    margin-left: 350px;
+    text-align: left;
+    font-weight: bold;
+}
+
+#right{
+    width: 300px;
+    height: 400px;
+    float: right;
+    margin-right: 350px;
+    text-align: left;
+}
+
+#footer{
+    text-align: center;
+    height: 60px;
+    width: 200px;
+    margin: 0 auto;
+    clear: both;
+    margin-top: 500px;
+}
+
+div p{
+    margin-left: 8px;
+    font-size: 20px;
+}
